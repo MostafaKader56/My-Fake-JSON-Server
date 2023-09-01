@@ -1,6 +1,23 @@
 {
-  "android_must_update": 1,
-  "android_should_update": 1,
-  "ios_must_update": 1,
-  "ios_should_update": 1
+  "posts": {
+    "android_must_update": 1,
+    "android_should_update": 1,
+    "ios_must_update": 1,
+    "ios_should_update": 1
+  },
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
